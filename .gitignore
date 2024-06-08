@@ -3,7 +3,7 @@
 .vscode
 node_modules
 build/
-dist/
+# dist/
 cache/
 integration/dist/
 coverage/
